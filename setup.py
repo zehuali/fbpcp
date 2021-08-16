@@ -18,7 +18,7 @@ with open("README.md", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="fbpcp",
+    name="ziyan-test-fbpcp",
     version="0.1.0",
     description="Facebook Private Computation Platform",
     author="Facebook",
